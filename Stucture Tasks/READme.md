@@ -33,9 +33,6 @@ destinations kilometers
 Plovdiv 165
 Varna 469
 Burgas 393
-```
-
-```
 Vidin 199
 Dobrich 512
 ```
@@ -56,17 +53,18 @@ Dobrich 512
     техните данни. Сортират се по Факултетен номер и се
     print-ват на екрана.
 Примерен вход:
+```
 4
+
 Georgi Georgiev
 12345
+
 Pesho
 42392
-
 
 Ivan Petrov
 92384
 
 Krasimir T
 59235
-
-
+```
