@@ -19,7 +19,7 @@ void PrintN(unsigned int n) {
 
 }
 
-//in backwards
+// backwards
 
 void PrintRevN(unsigned int n) {
 
