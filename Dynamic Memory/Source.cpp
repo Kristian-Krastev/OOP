@@ -1,6 +1,16 @@
 #include <iostream>
 using namespace std;
 
+char* dynConcat(const char* str1, const char* str2) {
+
+	char* res = new char[strlen(str1) + strlen(str2) + 1];
+
+	strcpy(res, str1);
+	strcat(res, str2);
+
+	return res;
+}
+
 char* cut_str(const char* str, char ch) {
 
 	size_t count = 0;
