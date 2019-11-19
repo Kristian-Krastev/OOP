@@ -1,4 +1,5 @@
 // Author : Vasilena Peycheva
+// Author : Ivan Filipov
 
 #include<iostream> //cin, cout
 
