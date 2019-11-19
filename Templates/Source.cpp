@@ -23,6 +23,12 @@ int main() {
 	s.pop();
 
 	std::cout << s.peek() << '\n';
+	std::cout << s.peek() << '\n';
+	std::cout << s.peek() << '\n';
+	std::cout << s.peek() << '\n';
+	std::cout << s.peek() << '\n';
+	std::cout << s.peek() << '\n';
+	
 	s.pop();
 	return 0;
 }
